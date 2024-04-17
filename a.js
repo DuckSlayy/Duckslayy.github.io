@@ -22,7 +22,7 @@ function initengahan(){
 
   function tombol(){wallpaper.style="transform: scale(1);";Tombol.style="opacity:1;transform: scale(1);";fungsi=1}
   document.getElementById("By").onclick = function() {if(fungsi==1){pertanyaan();} if(fungsi==2){menuju();}}
-  async function menuju(){await swals.fire('Yêu Emmm♥️!', 'Nhớ mãi yêu anh như vậy nha vì giờ anh quá thương em rồi!😊', 'success');window.location = "https://www.facebook.com/maithao230720?mibextid=LQQJ4d";}
+  async function menuju(){await swals.fire('Yêu Emmm♥️!', 'Nhớ mãi yêu anh như vậy nha vì giờ anh quá thương em rồi!😊', 'success');window.location = "https://facebook.com/DuckSlayy";}
   
   vketik1=kalimat.innerHTML;kalimat.innerHTML = "";
   function mulaiketik1(){
