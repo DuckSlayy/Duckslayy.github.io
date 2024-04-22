@@ -1,0 +1,24 @@
+{
+	"name": "DuckSlayy 🇻🇳",
+	"sourceImage": "https://duckslayy.github.io/img/logo.PNG",
+	"identifier": "https://duckslayy.github.io",
+	"sourceURL": "https://duckslayy.github.io/app.json",
+	"apps": [
+
+     	
+
+	{
+		"isLanZouCloud": 0,
+		"name": "Liên Quân",
+		"version": "v1.54",
+		"iconURL": "https://duckslayy.github.io/img/AOV.PNG",
+		"downloadURL": "https://github.com/DuckSlayy/DuckSlayy/releases/download/DuckSlayy/LazyTS4.ipa",
+		"versionDescription": "Lazy Nesss🇻🇳"
+	},
+	
+	
+
+     ]
+
+}	  
+	
