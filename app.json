@@ -1,24 +1,23 @@
 {
-	"name": "DuckSlayy 🇻🇳",
-	"sourceImage": "https://duckslayy.github.io/img/logo.PNG",
-	"identifier": "https://duckslayy.github.io",
-	"sourceURL": "https://duckslayy.github.io/app.json",
-	"apps": [
-
-     	
-
-	{
-		"isLanZouCloud": 0,
-		"name": "Liên Quân",
-		"version": "v1.54",
-		"iconURL": "https://duckslayy.github.io/img/AOV.PNG",
-		"downloadURL": "https://github.com/DuckSlayy/DuckSlayy/releases/download/DuckSlayy/LazyTS4.ipa",
-		"versionDescription": "Lazy Nesss🇻🇳"
-	},
-	
-	
-
-     ]
-
-}	  
-	
+    "name": "@vitcuon🇻🇳",
+    "identifier": "duckslayy.github.io",
+    "sourceURL": "https://duckslayy.github.io/apps.json",
+    "apps": [
+        {
+            "name": "Liên Quân",
+            "bundleIdentifier": "com.garena.game.kgvn",
+            "developerName": "LazyNesss",
+            "version": "1.53",
+            "versionDate": "2024-04-34T21:40:00+08:00",
+            "versionDescription": "Bản lên repo\nHack Map\n  chơi kín\nantiban",
+            "downloadURL": "https://github.com/DuckSlayy/DuckSlayy/releases/download/DuckSlayy/LazyTS4.ipa",
+            "localizedDescription": "LazyNesss🇻🇳",
+            "iconURL": "https://duckslayy.github.io/img/AOV.PNG",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        },
+				
+    ]
+}
